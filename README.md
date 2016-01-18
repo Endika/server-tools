@@ -18,26 +18,35 @@ Available addons
 addon | version | summary
 --- | --- | ---
 [admin_technical_features](admin_technical_features/) | 8.0.0.1.0 | Checks the technical features box for admin user.
-[auditlog](auditlog/) | 8.0.1.0.0 | Audit Log
+[auditlog](auditlog/) | 8.0.1.1.0 | Audit Log
 [auth_admin_passkey](auth_admin_passkey/) | 8.0.2.1.1 | Authentification - Admin Passkey
 [auth_dynamic_groups](auth_dynamic_groups/) | 8.0.1.0.0 | Have membership conditions for certain groups
 [auth_from_http_remote_user](auth_from_http_remote_user/) | 8.0.1.0.0 | Authenticate via HTTP Remote User
+[auth_signup_verify_email](auth_signup_verify_email/) | 8.0.1.0.0 | Force uninvited users to use a good email for signup
+[auth_supplier](auth_supplier/) | 8.0.1.0.0 | Auth Supplier
 [base_concurrency](base_concurrency/) | 8.0.1.0.0 | Base Concurrency
 [base_debug4all](base_debug4all/) | 8.0.1.0.0 | Shows full debug options for all users
+[base_export_manager](base_export_manager/) | 8.0.1.0.0 | Manages model export profiles
 [base_external_dbsource](base_external_dbsource/) | 8.0.1.3.0 | External Database Sources
 [base_field_serialized](base_field_serialized/) | 8.0.1.0.0 | Serialized fields
+[base_module_doc_rst](base_module_doc_rst/) | 8.0.1.0.0 | Modules Technical Guides in RST and Relationship Graphs
 [base_optional_quick_create](base_optional_quick_create/) | 8.0.0.1.0 | Avoid 'quick create' on m2o fields, on a 'by model' basis
 [base_report_auto_create_qweb](base_report_auto_create_qweb/) | 8.0.1.0.0 | Report qweb auto generation
 [base_suspend_security](base_suspend_security/) | 8.0.1.0.0 | Suspend security checks for a call
 [base_user_gravatar](base_user_gravatar/) | 8.0.1.0.0 | Synchronize Gravatar image
+[base_user_reset_access](base_user_reset_access/) | 8.0.1.0.0 | Reset User Access Right
 [cron_run_manually](cron_run_manually/) | 8.0.1.0.0 | Call cron jobs from their form view
 [database_cleanup](database_cleanup/) | 8.0.0.1.0 | Database cleanup
-[dbfilter_from_header](dbfilter_from_header/) | 8.0.1.0.0 | dbfilter_from_header
+[datetime_formatter](datetime_formatter/) | 8.0.1.0.0 | Helper functions to give correct format to date[time] fields
+[dbfilter_from_header](dbfilter_from_header/) | 8.0.1.0.1 | dbfilter_from_header
+[dead_mans_switch_client](dead_mans_switch_client/) | 8.0.1.0.1 | Be notified when customers' odoo instances go down
+[dead_mans_switch_server](dead_mans_switch_server/) | 8.0.1.0.0 | Be notified when customers' odoo instances go down
 [disable_openerp_online](disable_openerp_online/) | 8.0.1.1.0 | Remove odoo.com bindings
 [fetchmail_attach_from_folder](fetchmail_attach_from_folder/) | 8.0.1.0.0 | Attach mails in an IMAP folder to existing objects
 [fetchmail_notify_error_to_sender](fetchmail_notify_error_to_sender/) | 8.0.1.0.0 | If fetching mails gives error, send an email to sender
 [inactive_session_timeout](inactive_session_timeout/) | 8.0.1.0.0 | This module disable all inactive sessions since a given delay
 [language_path_mixin](language_path_mixin/) | 8.0.1.0.0 | Setting the partner's language in RML reports
+[log_forwarded_for_ip](log_forwarded_for_ip/) | 8.0.1.0.0 | Displays source IPs in log when behind a reverse proxy
 [mail_environment](mail_environment/) | 8.0.0.1.0 | Server env config for mail + fetchmail
 [mass_editing](mass_editing/) | 8.0.1.3.0 | Mass Editing
 [module_prototyper](module_prototyper/) | 8.0.0.3.0 | Prototype your module.
